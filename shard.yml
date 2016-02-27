@@ -1,0 +1,12 @@
+name: app
+version: 0.1.0
+
+authors:
+  - Ian Blenke <ian@blenke.com>
+
+dependencies:
+  kemal:
+    github: sdogruyol/kemal
+    branch: master
+
+license: MIT

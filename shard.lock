@@ -1,0 +1,14 @@
+version: 1.0
+shards:
+  kemal:
+    github: sdogruyol/kemal
+    commit: 0a55b2d28a0d36984d0ac802c07a3ec3e458d727
+
+  kilt:
+    github: jeromegn/kilt
+    version: 0.3.2
+
+  radix:
+    github: luislavena/radix
+    version: 0.1.0
+
